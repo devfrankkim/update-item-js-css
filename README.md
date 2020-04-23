@@ -1,5 +1,7 @@
 # What I have learned from building this project
 
+### [To check out the project live](https://heyfranksmile.github.io/update-item-js-css/)
+
 - [x] querySelector provides a NodeList 
 - [x] Difference between NodeList and Array 
 - [x] Difference between forEach, map 
